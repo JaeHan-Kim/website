@@ -8,6 +8,6 @@ public class ViewController {
 
 	@GetMapping("/")
 	public String view() {
-		return "/view/main";
+		return "view/main";
 	}
 }
