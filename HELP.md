@@ -18,6 +18,7 @@ The following guides illustrate how to use some features concretely:
 
 ### master branch test
 * master 20200918-1
+* master 20200918-2
 
 ### Additional Links
 These additional references should also help you:
